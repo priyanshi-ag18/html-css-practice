@@ -1,0 +1,44 @@
+.uber-btn{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 120px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.uber-btn:hover{
+    background-color: rgb(35, 33, 33);
+}
+
+.amazon-btn{
+   background-color: rgb(255, 234, 0);
+   color: black;
+   border: none;
+   width: 161px;
+   height: 40px;
+   border-radius: 20px;
+   font-weight: 600;
+   font-size: 17px;
+}
+
+.buy-btn{
+    background-color: orange;
+    color: black;
+    border: none;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 17px;
+    transition: background-color 0.15s;
+    margin-left: 10px;
+}
+.buy-btn:hover{
+    background-color: rgba(199, 131, 6, 0.804);
+    
+}
+.price{
+    color: rgb(4, 251, 20);
+}
